@@ -1,0 +1,17 @@
+{
+    "piezas": [{
+            "id": 1,
+            "nombre": "Corsair One a100",
+            "precio": 3449.01,
+            "imagen": "https://img.pccomponentes.com/articles/31/310682/1950-corsair-one-a100-amd-ryzen-9-3900x-32gb-480gb-ssd-2tb-rtx-2080-super.jpg",
+            "stock": true
+        },
+        {
+            "id": 2,
+            "nombre": "MSI B550i",
+            "precio": 179.90,
+            "imagen": "https://img.pccomponentes.com/articles/32/324454/1716-msi-mpg-b550i-gaming-edge-wifi.jpg",
+            "stock": false
+        }
+    ]
+}
